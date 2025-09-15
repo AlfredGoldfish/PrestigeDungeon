@@ -1,0 +1,4 @@
+# Clang-Format configuration
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 120
